@@ -99,7 +99,7 @@ const translations = {
                 manage_preferences:'Gerencie as suas preferências'
             },
             'en': {
-                app_title: 'VIVA Andebol!',
+                app_title: 'VIVA ANDEBOL!',
                 home: 'Home',
                 explore: 'Explore',
                 games: 'Games',
