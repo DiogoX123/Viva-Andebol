@@ -417,7 +417,7 @@ const translations = {
             // ===============================================
             const youtubeChannels = [
                 { name: 'DynHandball', url: 'https://www.youtube.com/@DynHandball', img: 'dynhand.jpg' },
-                { name: 'EHF Home of Handball', url: 'https://www.youtube.com/@EHFTV', img: 'ehfh.jpg' },
+                { name: 'EHF Home of Handball', url: 'https://www.youtube.com/@HomeofHandball', img: 'ehfh.jpg' },
                 { name: 'Andebol TV', url: 'https://www.youtube.com/@AndebolTV', img: 'andeboltvlogo.jpg' },
                 { name: 'YS 24 Handball Video', url: 'https://www.youtube.com/@YS24HandballVideo', img: 'ys24logo.jpg' },
                 { name: 'IHF', url: 'https://www.youtube.com/@ihf.info', img: 'ihflogo.jpg' },
